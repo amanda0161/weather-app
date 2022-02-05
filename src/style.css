@@ -87,7 +87,7 @@ body {
   text-decoration: none;
 }
 
-.current-weather {
+.current-weather::first-letter {
   text-transform: capitalize;
 }
 
