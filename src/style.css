@@ -87,6 +87,10 @@ body {
   text-decoration: none;
 }
 
+.current-weather {
+  text-transform: capitalize;
+}
+
 .current-weather,
 .date-time,
 .humidity,
@@ -136,8 +140,4 @@ hr {
 
 .forecast-temp {
   font-weight: 600;
-}
-.footer {
-  align-items: center;
-  justify-content: center;
 }
