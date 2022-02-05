@@ -71,15 +71,15 @@ body {
 }
 
 .current-temp {
-  font-size: 100px;
+  font-size: 120px;
   font-weight: 300;
   text-align: start;
 }
 
 .units {
-  font-size: 25px;
+  font-size: 20px;
   position: relative;
-  top: -50px;
+  top: -65px;
 }
 
 .units:hover {
@@ -136,4 +136,8 @@ hr {
 
 .forecast-temp {
   font-weight: 600;
+}
+.footer {
+  align-items: center;
+  justify-content: center;
 }
