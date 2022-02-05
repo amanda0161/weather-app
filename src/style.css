@@ -66,8 +66,8 @@ body {
 }
 
 .current-icon {
-  font-size: 120px;
   text-align: end;
+  font-size: 120px;
 }
 
 .current-temp {
