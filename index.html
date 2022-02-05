@@ -35,9 +35,11 @@
               class="search-city"
               id="city-input"
               placeholder="Enter a city.."
+              class="form-control"
               autofocus="on"
               autocomplete="off"
             />
+
             <input
               type="submit"
               class="search-button"
@@ -59,7 +61,10 @@
         </div>
         <div class="col-6 current-temp">
           <span class="temperature" id="temperature"></span
-          ><span class="units">°C | <a href="#">°F</a></span>
+          ><span class="units"
+            ><a href="#" id="celcius-link" class="active">°C</a> |
+            <a href="#" id="fahrenheit-link">°F</a></span
+          >
         </div>
       </div>
 

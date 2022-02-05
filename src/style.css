@@ -70,6 +70,14 @@ body {
   font-size: 120px;
 }
 
+.units .active {
+  color: black;
+  cursor: default;
+}
+.units .active:hover {
+  text-decoration: none;
+}
+
 .current-temp {
   font-size: 120px;
   font-weight: 300;
