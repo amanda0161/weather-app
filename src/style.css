@@ -136,11 +136,6 @@ hr {
 .forecast-max-temp,
 .forecast-min-temp {
   font-size: 20px;
-  align-self: center;
-}
-
-.forecast-icon {
-  font-size: 40px;
 }
 
 .forecast-day {
