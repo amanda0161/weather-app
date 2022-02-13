@@ -136,9 +136,9 @@ hr {
   font-family: "Comfortaa", cursive;
 }
 
-.forecast-max-temp {
+#forecast-max-temp {
   font-weight: 500;
 }
-.forecast-min-temp {
+#forecast-min-temp {
   opacity: 0.6;
 }
